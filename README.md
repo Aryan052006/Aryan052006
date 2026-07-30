@@ -12,7 +12,7 @@ Building scalable web applications and AI-powered solutions that solve real-worl
 
 ## 🚀 About Me
 
-🎓 Second Year B.Tech Computer Engineering Student at **PICT, Pune**
+🎓 Third Year B.Tech Computer Engineering Student at **PICT, Pune**
 
 💻 Passionate about **Full Stack Development**, **Artificial Intelligence**, and **Problem Solving**
 
@@ -28,7 +28,7 @@ Building scalable web applications and AI-powered solutions that solve real-worl
 
 - 🥇 SIH 2025 Internal Winner
 - 💼 Management Head @ CSI PICT
-- ⭐ CGPA: **8.88**
+- ⭐ CGPA: **8.85**
 
 ---
 
